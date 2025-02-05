@@ -1,0 +1,7 @@
+Online-Shopping-DB/
+├── schema.sql          # Database schema creation script
+├── procedures.sql      # PL/SQL stored procedures for key operations
+├── functions.sql       # Helper functions for data processing
+├── triggers.sql        # Triggers for automated updates
+├── test_data.sql       # Sample dataset for testing
+├── README.md           # Project documentation (this file)
